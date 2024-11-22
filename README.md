@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+<p align='center' style='min-height: 100px;'>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40BFF7&width=435&lines=console.log(%22HeeChung%22)" alt="Typing SVG" /> 
+</p>
 
-<!--
-**HeeChung/HeeChung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://socialify.git.ci/HeeChung/HeeChung/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="HeeChung" width="700" height="300" />
+</p>
 
-Here are some ideas to get you started:
+| **Category**      | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**      | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=e0137f&logo=angular&logoColor=FFFFFF)](https://angularjs.org/) [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) <br/> [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![THREE](https://img.shields.io/static/v1?label=&message=Three.js&color=FFFFFF&logo=Three.js&logoColor=000000)](https://threejs.org/) [![tailwindcss](https://img.shields.io/static/v1?label=&message=Tailwind&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF)](https://www.tailwindcss.cn/) [![Echarts](https://img.shields.io/static/v1?label=&message=Echarts&color=e43961&logo=ApacheEcharts&logoColor=FFFFFF)](https://echarts.apache.org/) |
+| **Backend**       | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=5FA04E&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) [![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=000000&logo=express&logoColor=FFFFFF)](https://expressjs.com/) [![Nest.js](https://img.shields.io/static/v1?label=&message=Nest.js&color=E0234E&logo=nestjs&logoColor=FFFFFF)](https://nestjs.com/) [![Koa.js](https://img.shields.io/static/v1?label=&message=Koa.js&color=33333D&logo=koa&logoColor=FFFFFF)](https://koajs.com/) <br/> [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF)](https://www.mongodb.com/) [![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=FF4438&logo=Redis&logoColor=FFFFFF)](https://www.mongodb.com/)                                                                                                                                                                                                     |
+| **CrossPlatform** | [![React Native](https://img.shields.io/static/v1?label=&message=ReactNative&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Electron](https://img.shields.io/static/v1?label=&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF)](https://www.electronjs.org/) [![Uniapp](https://img.shields.io/static/v1?label=&message=Uniapp&color=2b9939&logo=Uniapp&logoColor=FFFFFF)](https://uniapp.dcloud.net.cn/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Other**         | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![FFmpeg](https://img.shields.io/static/v1?label=&message=FFmpeg&color=007808&logo=FFmpeg&logoColor=FFFFFF)](https://ffmpeg.org/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=HeeChung&amp;show_icons=true" alt="GitHub Stats">
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeChung)](https://github.com/HeeChung)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tokyonight&repo=Edit-Studio)](https://github.com/HeeChung)
+
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/HeeChung" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+</p>
+
+---
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HeeChung&theme=github-dark-dimmed&custom_title=HeeChung%20Activity%20Graph&hide_border=true)](https://github.com/HeeChung)
+
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/HeeChung/HeeChung?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/HeeChung/HeeChung?style=flat-square&labelColor=343b41"/></p>
+</div>
